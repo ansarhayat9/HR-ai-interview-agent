@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+requests
+langchain-groq
+numpy
+sentence-transformers
+PyPDF2
+
+# python -m venv .venv
+# source .venv/bin/activate      # macOS / Linux
+# .venv\Scripts\activate         # Windowsnew
