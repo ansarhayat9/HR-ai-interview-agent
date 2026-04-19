@@ -28,6 +28,11 @@ The system performs a multi-stage analysis to ensure high-quality screening:
 - **Embeddings**: Sentence-Transformers (`all-MiniLM-L6-v2`)
 - **Vector Store**: FAISS (Facebook AI Similarity Search)
 - **Frontend**: Streamlit (with custom CSS/HTML injection)
+<img width="1339" height="633" alt="inter2" src="https://github.com/user-attachments/assets/1349bd1f-52e4-409f-8f41-3105d771d983" />
+<img width="1034" height="483" alt="inter2 1" src="https://github.com/user-attachments/assets/54d145e9-4aef-4023-8ecf-71eb6d3b1917" />
+<img width="1360" height="625" alt="inter3" src="https://github.com/user-attachments/assets/6d3b4c6e-71e7-47e3-beb9-a652f37a8246" />
+<img width="1357" height="567" alt="inter4" src="https://github.com/user-attachments/assets/dcd81324-4643-4ae7-ac24-a5335810a629" />
+
 
 ## 📦 Installation & Setup
 
